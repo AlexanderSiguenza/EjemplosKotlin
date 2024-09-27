@@ -1,0 +1,12 @@
+1,producto1,c/u,$0.10
+2,producto2,c/u,$5.00
+3,producto3,c/u,$3.00
+4,producto4,c/u,$0.50
+5,producto5,c/u,$0.80
+6,producto6,c/u,$0.30
+7,producto7,c/u,$2.25
+8,producto8,c/u,$2.75
+9,producto9,c/u,$1.80
+10,producto10,c/u,$3.25
+11,producto11,cajas,$50
+12,producto12,sobres,$0.10

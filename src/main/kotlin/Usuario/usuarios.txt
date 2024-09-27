@@ -1,0 +1,14 @@
+juan123,claveJuan
+maria456,contraseñaMaria
+pedro789,passPedro
+laura0101,secretoLaura
+carlosXYZ,passwordCarlos
+anaABC,claveAna
+david777,secretoDavid
+lucia321,contraseñaLucia
+felipe999,passFelipe
+sofia555,passwordSofia
+AlexSiguenza,Alex123
+Pepito,Pepito123
+JuanPerez,Juan123
+paco44,123

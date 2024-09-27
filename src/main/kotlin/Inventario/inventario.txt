@@ -1,0 +1,15 @@
+id,producto,existencia
+1,producto1,30
+2,producto2,5
+3,producto3,60
+4,producto4,100
+5,producto5,500
+6,producto6,20
+7,producto7,25
+8,producto8,30
+9,producto9,180
+10,producto10,50
+11,huevos,400
+12,Jabon,30
+13,Pasta Diente,40
+14,Lapiz,20
